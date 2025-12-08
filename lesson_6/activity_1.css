@@ -1,0 +1,18 @@
+h3 {
+    color: orange;
+}
+
+.myclass {
+    color: blueviolet;
+}
+
+
+#myid {
+    color: rgb(232, 232, 13);
+}
+
+
+h4,
+p {
+    color: purple;
+}
